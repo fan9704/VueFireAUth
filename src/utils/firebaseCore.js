@@ -1,10 +1,10 @@
 import { getAuth, GithubAuthProvider } from "firebase/auth";
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
-import { API_KEY } from "./env";
+// import { API_KEY } from "./env";
 
 const firebaseConfig = {
-    apiKey: "A=IzaSyApi1UE5zrhK2FVfGyKE70nAsxTLmw9Xj8",
+    apiKey: "AIzaSyApi1UE5zrhK2FVfGyKE70nAsxTLmw9Xj8",
     authDomain: "vuefireauth-94879.firebaseapp.com",
     projectId: "vuefireauth-94879",
     storageBucket: "vuefireauth-94879.appspot.com",
